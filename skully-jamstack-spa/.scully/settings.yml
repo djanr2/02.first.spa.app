@@ -1,0 +1,12 @@
+identifier: lej65d89vcv9012d
+appPort: 1864
+staticPort: 1668
+reloadPort: 2667
+hostName: localhost
+projectName: skully-jamstack-spa
+homeFolder: C:\Users\djanr\Desktop\angular.projects\02.first.spa.app\skully-jamstack-spa
+distFolder: dist/skully-jamstack-spa
+outDir: >-
+  C:\Users\djanr\Desktop\angular.projects\02.first.spa.app\skully-jamstack-spa\dist\static
+handle404: ''
+allowErrorCollect: true
